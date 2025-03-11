@@ -15,7 +15,7 @@ readme = "README.md"
 
 [dependencies]
 askama = { version = "0.13", path = "../askama", default-features = false, features = ["with-axum"] }
-axum-core = "0.4"
+axum-core = "0.5"
 http = "1.0"
 
 [dev-dependencies]
