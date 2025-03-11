@@ -19,7 +19,7 @@ axum-core = "0.4"
 http = "1.0"
 
 [dev-dependencies]
-axum = { version = "0.7", default-features = false }
+axum = { version = "0.8", default-features = false }
 http-body-util = "0.1"
 tokio = { version = "1.0", features = ["macros", "rt"] }
 tower = "0.5"
